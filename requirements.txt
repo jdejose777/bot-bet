@@ -1,0 +1,14 @@
+# Core browser automation
+playwright>=1.40,<2.0
+
+# AI-powered browser automation
+browser-use>=0.1.0
+
+# Gemini Vision LLM
+langchain-google-vertexai>=1.0.0
+
+# Config management (futuro .env)
+python-dotenv>=1.0
+
+# Retries (futuro uso en scraping / acciones resilientes)
+tenacity>=8.2
